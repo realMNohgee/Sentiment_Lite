@@ -1,4 +1,5 @@
 # 💬 Sentiment_Lite — Zero-Dependency Sentiment Scoring
+![CI](https://github.com/realMNohgee/Sentiment_Lite/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **"How does this text feel?"** A single-file CLI that scores the sentiment of any text — a sentence, a review, a support ticket, a tweet — using an embedded ~120 positive / ~120 negative English lexicon with 1–3 intensity weights and simple negation handling. Pure Python standard library. No pip installs, no third-party imports.
 
